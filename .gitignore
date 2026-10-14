@@ -1,0 +1,4 @@
+data/*.csv
+output/clean_orders.csv
+*.xls
+__pycache__/
