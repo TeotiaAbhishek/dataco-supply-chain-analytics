@@ -1,2 +1,4 @@
-pandas
-statsmodels
+  pandas
+  matplotlib
+  statsmodels
+  jupyter
